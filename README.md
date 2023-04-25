@@ -1,11 +1,11 @@
-### Hi there 👋
+### Welcome to Abdallah Hendy's modest profile👋
 
 <!--
 **Abdallahhendy/Abdallahhendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🫡 Hi, I'm Abdallah_Hendy
+- 🫡 Hi!
 - 🧑‍💻 I'm student & learn Penetration Testing (Web - Network)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
