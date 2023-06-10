@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<hr/>
  <p align="center">
   <h4> GitHub's Status:  </h4>
    </p>
