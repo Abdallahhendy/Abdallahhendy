@@ -16,7 +16,7 @@
 
 
 
-### Connect with Me :
+<!-- ### Connect with Me : -->
 
 <!-- <a href="https://www.linkedin.com/in/hanem-naga/" target="_blank"><img src="https://img.shields.io/badge/-Hanem%20Naga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 
@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp; -->
+<hr/>
 
 
 
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 -->
 
  <p align="center">
-  <h4> GitHub's Status </h4>
+  <h4> GitHub's Status:  </h4>
    </p>
 
 <!--  -->
