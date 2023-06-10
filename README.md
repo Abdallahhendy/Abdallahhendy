@@ -34,7 +34,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp; -->
-<hr/>
 
 
 
@@ -45,7 +44,7 @@
 <a href="https://komarev.com/ghpvc/?username=Abdallahhendy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Abdallahhendy&style=for-the-badge">
 </a>
-
+<hr/>
 <!--
 **Abdallahhendy/Abdallahhendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
