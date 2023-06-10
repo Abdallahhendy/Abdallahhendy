@@ -44,7 +44,6 @@
 <a href="https://komarev.com/ghpvc/?username=Abdallahhendy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Abdallahhendy&style=for-the-badge">
 </a>
-<hr/>
 <!--
 **Abdallahhendy/Abdallahhendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,7 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
  <p align="center">
   <h4> GitHub's Status:  </h4>
    </p>
