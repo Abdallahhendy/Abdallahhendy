@@ -52,32 +52,41 @@ Here are some ideas to get you started:
 - 🫡 Hi!
 - 🧑‍💻 I'm student & learn Penetration Testing (Web - Network)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking for a collaboratation in bug bounty to exchange the knowledge. 
 -->
 <hr/>
  <p align="center">
   <h4> GitHub's Status:  </h4>
    </p>
 
-<!--  -->
 
+<!--  -->
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=A99&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Abdallahhendy&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
 
 <br />
 
-<!--
+<div align="center">
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahhendy&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+<br/>
+
+<!-- -->
 ### - Blogs 🌱
--->
+<div align="center">
+    <a href="https://medium.com/@abdallahhendy15" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+    <a href="https://www.linkedin.com/in/abdullah-hendy-941071238/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</div>
+
 <!--
 <p align="center">
   <a href="https://dev.to/hemant">
