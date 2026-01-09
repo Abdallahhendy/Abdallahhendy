@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ED6F58&width=435&lines=Penetration-tester;Learning+journey+never+ends" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=ED6F58&width=435&lines=DevOps Engineer;Learning+journey+never+ends" alt="Typing SVG" /></a>
 
 - 👋 Hi! 
-- 🧑‍💻 I'm student & learn Penetration Testing (Web - Network)
+- 🧑‍💻 I'm an aspiring DevOps & Cloud Engineer
 <!-- - 💬 Ask me about my experience with Python, C++  -->
 
 
